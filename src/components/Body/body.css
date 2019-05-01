@@ -1,0 +1,11 @@
+.card-container {
+    padding-top: 50px;
+    height: 100%;
+    width:75%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    overflow: auto;
+  }
+  
