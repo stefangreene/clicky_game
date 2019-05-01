@@ -1,0 +1,20 @@
+.jumbotron {
+    height: 50px;
+}
+.header-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    float: left;
+}
+.Intro{
+   text-align: center;
+}
+.game-message{
+    float:right;
+}
+.game-scores{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    float:right;
+    align-self: auto;
+}

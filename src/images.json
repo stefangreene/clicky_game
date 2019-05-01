@@ -66,16 +66,11 @@
     "image": "/assets/images/slowball.png"
 },{
     "id": 14,
-    "name": "Sphere",
-    "clicked": false,
-    "image": "/assets/images/sphere.png"
-},{
-    "id": 15,
     "name": "Square",
     "clicked": false,
     "image": "/assets/images/square.png"
 },{
-    "id": 16,
+    "id": 15,
     "name": "Triangle",
     "clicked": false,
     "image": "/assets/images/triangle.png"
