@@ -1,0 +1,84 @@
+[
+{
+    "id": 1,
+    "name": "3-D Triangle",
+    "clicked": false,
+    "image": "/assets/images/3dtriangle.png"
+},{
+    "id": 2,
+    "name": "Chopped Pyramid",
+    "clicked": false,
+    "image": "/assets/images/choppedPyramid.png"
+},{
+    "id": 3,
+    "name": "Cone",
+    "clicked": false,
+    "image": "/assets/images/cone.png"
+},{
+    "id": 4,
+    "name": "Diamond",
+    "clicked": false,
+    "image": "/assets/images/diamond.png"
+},{
+    "id": 5,
+    "name": "Faster Ball",
+    "clicked": false,
+    "image": "/assets/images/fasterball.png"
+},{
+    "id": 6,
+    "name": "flintstone",
+    "clicked": false,
+    "image": "/assets/images/flintstone.png"
+},{
+    "id": 7,
+    "name": "Megaphone",
+    "clicked": false,
+    "image": "/assets/images/megaphone.png"
+},{
+    "id": 8,
+    "name": "Another Flintstone",
+    "clicked": false,
+    "image": "/assets/images/otherFlintstone.png"
+},{
+    "id": 9,
+    "name": "Another Pyramid Type",
+    "clicked": false,
+    "image": "/assets/images/otherPyramid.png"
+},{
+    "id": 10,
+    "name": "Paint Can",
+    "clicked": false,
+    "image": "/assets/images/paintcan.png"
+},{
+    "id": 11,
+    "name": "Pyramid",
+    "clicked": false,
+    "image": "/assets/images/pyramid.png"
+},{
+    "id": 12,
+    "name": "Rectangle",
+    "clicked": false,
+    "image": "/assets/images/rectangle.png"
+},{
+    "id": 13,
+    "name": "Slowball",
+    "clicked": false,
+    "image": "/assets/images/slowball.png"
+},{
+    "id": 14,
+    "name": "Sphere",
+    "clicked": false,
+    "image": "/assets/images/sphere.png"
+},{
+    "id": 15,
+    "name": "Square",
+    "clicked": false,
+    "image": "/assets/images/square.png"
+},{
+    "id": 16,
+    "name": "Triangle",
+    "clicked": false,
+    "image": "/assets/images/triangle.png"
+}
+
+]
